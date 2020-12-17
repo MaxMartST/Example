@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Example.AdminApi": {
+      "commandName": "Project",
+      "launchUrl": "v1.0/values",
+      "applicationUrl": "http://localhost:6020"
+    }
+  }
+}
